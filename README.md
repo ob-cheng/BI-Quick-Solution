@@ -1,6 +1,8 @@
 # Tableau Quick Solutions
 
-Hey there! 👋 Welcome to my repository. This repository is a collection of various scenarios and situations that I've come across during my experience in finance-related dashboard development. I've found these calculations to be helpful in boosting my productivity, and I hope they'll be helpful for you too!
+Hey there! 👋
+
+This repository is a collection of various scenarios and situations that I've come across during my experience in finance-related dashboard development. I've found these calculations to be helpful in boosting my productivity, and I hope they'll be helpful for you too!
 
 ## Contents
 
