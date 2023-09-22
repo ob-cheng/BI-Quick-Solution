@@ -1,4 +1,4 @@
-# BI Quick Solutions
+# BI Cheat Note
 
 Hey there! 👋
 
