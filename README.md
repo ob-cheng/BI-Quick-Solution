@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-This repository is a collection of various scenarios that I've come across with BI development. Many of the calculation needs are repetative and these code could be helpful for you if you encountered a similiar situation. 
+This repository is a collection of various scenarios that I've come across with BI development. Many of the scenarios are repetative and these code could be helpful for you if you encountered a similiar situation. 
 
 ## Contents
 
