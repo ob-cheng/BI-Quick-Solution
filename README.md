@@ -6,7 +6,7 @@ This repository is a collection of various scenarios that I've come across with 
 
 ## Contents
 
-The repository is organized by tools and topics, making it easy for you to find the calculation you need. Some of the topics covered include:
+The repository is organized by tools and topics, making it easy for you to find the calculation you need.
 
 ## How to Use
 
