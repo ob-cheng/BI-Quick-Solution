@@ -1,0 +1,14 @@
+//Alteryx how to get the first day and last day of the current quarter
+//1 First to parse the date
+DateTimeParse([Date],"%m-%d-%Y")
+//2 Formula tool to get the dates
+
+//Start pf Quarter
+Left([Parsed],5) +
+PadLeft(ToString(Ceil(DateTimeMonth([Parsed])/3)*3-2),2, '0')
++ '-01'
+
+//End of Quarter
+DateTimeTrim(Left([Parsed],5) +
+PadLeft(ToString(Ceil(DateTimeMonth([Parsed])/3)*3),2, '0')
++ '-01', "lastofmonth")
